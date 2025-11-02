@@ -1,4 +1,4 @@
-<h2 align="left">About</h2>
+<h2 align="left">Digital Marketing Strategist</h2>
 
 ###
 
